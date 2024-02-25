@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\business\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\business\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\concrete\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\concrete\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\concrete\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\concrete\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|c:\\users\\selva\\source\\repos\\kodlama.io\\kodlama\\business\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\business\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\abstract\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\abstract\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\concrete\\dappercoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\concrete\\dappercoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\concrete\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\concrete\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\dataaccess1\\concrete\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess1\\concrete\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|C:\\Users\\selva\\source\\repos\\Kodlama.io\\kodlama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA8877-590A-4CB8-AA8C-369FEB4BC02B}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Business\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Business\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Business\\CategoryManager.cs",
+              "RelativeToolTip": "Kodlama\\Business\\CategoryManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:42:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Entities\\Course.cs",
+              "RelativeToolTip": "Kodlama\\Entities\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:19:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:36:25.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Abstract\\IInstructorDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Abstract\\IInstructorDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Abstract\\IInstructorDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Abstract\\IInstructorDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:22:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Business\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Business\\CourseManager.cs",
+              "RelativeToolTip": "Kodlama\\Business\\CourseManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:19:56.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfCourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\EfCourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Concrete\\EfCourseDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\EfCourseDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Concrete\\EfCourseDal.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:18:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DapperCourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\DapperCourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Concrete\\DapperCourseDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\DapperCourseDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Concrete\\DapperCourseDal.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:17:29.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Abstract\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Abstract\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Abstract\\ICourseDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Abstract\\ICourseDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:14:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Concrete\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\CategoryDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Concrete\\CategoryDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:14:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\CourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Concrete\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\CourseDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Concrete\\CourseDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:13:38.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\InstructorDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess1\\Concrete\\InstructorDal.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\DataAccess1\\Concrete\\InstructorDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess1\\Concrete\\InstructorDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:36:25.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Business\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Business\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Business\\InstructorManager.cs",
+              "RelativeToolTip": "Kodlama\\Business\\InstructorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:30:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Entities\\Instructor.cs",
+              "RelativeToolTip": "Kodlama\\Entities\\Instructor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:19:39.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Entities\\Category.cs",
+              "RelativeToolTip": "Kodlama\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:19:21.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Program.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Program.cs",
+              "ToolTip": "C:\\Users\\selva\\source\\repos\\Kodlama.io\\Kodlama\\Program.cs",
+              "RelativeToolTip": "Kodlama\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:05:30.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
